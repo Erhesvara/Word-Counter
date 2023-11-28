@@ -28,8 +28,8 @@ Feature:
    ```
 3. Navigate to the project directory.
 4. Run python Chatbot.py to start the chatbot.
+
    
 ## Usage
-
 After Running the Chatbot.py interact with it's function
 
