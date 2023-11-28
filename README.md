@@ -4,7 +4,7 @@ Word Counter Using Python
 
 ## About The Project
 
-This project demonstrates a chatbot implemented in Python for console interaction.
+This project demonstrates a counting of words using the python console interaction.
 
 Feature:
 * Chat Console: Engage in conversations with the Python chatbot within the console.
