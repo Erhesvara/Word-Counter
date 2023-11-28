@@ -1,4 +1,4 @@
-# Word-Counter
+# Word-Counter.py
 
 Word Counter Using Python
 
