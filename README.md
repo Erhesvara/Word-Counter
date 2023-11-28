@@ -7,13 +7,12 @@ Word Counter Using Python
 This project demonstrates a counting of words using the python console interaction.
 
 Feature:
-* Chat Console: Engage in conversations with the Python chatbot within the console.
-* Response Management: Add, save, and manage preferred responses.
-* Storage: Store and access the collected responses.
+* Word Counter
+
 
 ### Built With
 * Python and Pycharm
-* JSON
+
 
 ## Getting Started
 
