@@ -9,7 +9,6 @@ This project demonstrates a counting of words using the python console interacti
 Feature:
 * Word Counter
 
-
 ### Built With
 * Python and Pycharm
 
