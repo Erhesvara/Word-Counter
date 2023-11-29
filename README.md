@@ -7,7 +7,8 @@ Word Counter Using Python
 This project demonstrates a counting of words using the python console interaction.
 
 Feature:
-* Word Counter
+* Display the count of words of user
+* Display word count of a sentence
 
 ### Built With
 * Python and Pycharm
