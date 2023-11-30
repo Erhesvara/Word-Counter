@@ -26,12 +26,16 @@ Ensure the following prerequisites are met before getting started:
 
 ### Installation
 
-1. Clone the repo
+1. Clone the repository:
    ```sh
    git clone https://github.com/Erhesvara/Word-Counter
    ```
 3. Navigate to the project directory.
 4. Run python Chatbot.py to start the chatbot.
+   ```sh
+   python Word-Counter.py
+   ```
+
 
    
 ## Usage
