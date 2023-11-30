@@ -11,7 +11,8 @@ Feature:
 * Determines the word count of a given sentence
 
 ### Built With
-* Python and Pycharm
+* Python 
+* Pycharm
 
 
 
