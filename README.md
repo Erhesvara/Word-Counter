@@ -1,6 +1,6 @@
-# Word-Counteru Using Python
+# Word-Counter Using Python
 
-Word Counter Using Python
+This project showcases a word counting functionality through Python's console interaction.
 
 ## About The Project
 
