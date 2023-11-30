@@ -19,9 +19,10 @@ Feature:
 ## Getting Started
 
 ### Prerequisites
+Ensure the following prerequisites are met before getting started:
 
-* Python installed on your system and IDE ready
-* Any additional libraries or dependencies needed
+* Python is installed on your system
+* An Integrated Development Environment (IDE) is set up
 
 ### Installation
 
