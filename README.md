@@ -38,3 +38,4 @@ Ensure the following prerequisites are met before getting started:
 
 ## Usage
 Once the Word-Counter.py script is running, interact with its functions to count words.
+
