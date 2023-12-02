@@ -15,7 +15,6 @@ Feature:
 * Pycharm
 
 
-
 ## Getting Started
 
 ### Prerequisites
@@ -24,8 +23,8 @@ Ensure the following prerequisites are met before getting started:
 * Python is installed on your system
 * An Integrated Development Environment (IDE) is set up
 
-### Installation
 
+### Installation
 1. Clone the repository:
    ```sh
    git clone https://github.com/Erhesvara/Word-Counter.git
@@ -38,4 +37,3 @@ Ensure the following prerequisites are met before getting started:
 
 ## Usage
 Once the Word-Counter.py script is running, interact with its functions to count words.
-
